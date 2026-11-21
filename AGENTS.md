@@ -1,5 +1,9 @@
 # Instruções para agentes — SlothGeo
 
+## Orientação mais recente — 21/11/2026
+
+Pedro pediu primeiro preparar casos de uso (UC), derivar requisitos e depois organizar um Projects inicial e issues. Ele dará orientações posteriores para melhorar essa base. Nesta etapa, focar no planejamento; não iniciar produto por inferência da rotina anterior. Ler `docs/USE_CASES.md`, `docs/REQUIREMENTS.md`, `docs/DECISIONS.md`, `docs/INITIAL_PLAN.md` e `docs/PROGRESS.md` e conferir o estado real no GitHub. O horário autorizado mais recente é 04h30 de America/Sao_Paulo em 21/11/2026; a referência às 06h abaixo é histórica. Não apresentar a base inicial como ciclo completo ou escopo aprovado.
+
 Este projeto foi solicitado em 06/11/2026 para começar somente em **21/11/2026 às 06h de America/Sao_Paulo**. O proprietário está priorizando os agentes Sofiee e Roblox. Até a data, apenas preservar a documentação; não iniciar implementação, instalar dependências, criar issues de produto ou habilitar APIs externas.
 
 **A primeira tarefa na data de início é definir RF/RNF, sprints e todas as issues de todas as sprints planejadas, antes de implementar.** Ler docs/START_HERE.md e esclarecer dúvidas reais com Pedro antes das issues afetadas. Nenhum plano detalhado de sprints está aprovado por este bootstrap.

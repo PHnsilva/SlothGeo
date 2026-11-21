@@ -2,9 +2,21 @@
 
 API de medição e análise geométrica de terrenos, combinando ferramentas de geometria/geoprocessamento, entradas documentais e integrações Google Maps com o agente de Cálculo da linha Sofiee.
 
-**Estado: somente escopo e documentação inicial. Nenhuma API, extração visual ou integração está implementada. Início autorizado: 21/11/2026 às 06h, America/Sao_Paulo. Até lá não implementar, instalar dependências, criar o backlog de produto ou ativar serviços externos.**
+**Estado em 21/11/2026: preparação de casos de uso, requisitos derivados e organização inicial do trabalho para revisão de Pedro. Nenhuma API, extração visual ou integração está implementada.** O horário autorizado mais recente é 04h30 de America/Sao_Paulo. A orientação atual prioriza a base de planejamento; Pedro dará instruções posteriores para melhorá-la.
 
-O projeto foi preparado em 06/11/2026 por solicitação de Pedro. Na retomada, a primeira tarefa é definir RF/RNF, resolver decisões abertas e criar todas as issues de todas as sprints do ciclo (até 5 + 1, semanais), com tamanhos, dependências, aceite e Kanban. Depois, implementar por issue/branch/PR; somente Pedro revisa e aprova PRs. A preparação documental inicial é a exceção autorizada de bootstrap.
+## Planejamento inicial em revisão
+
+1. [Casos de uso — atores, fluxos e exceções](docs/USE_CASES.md)
+2. [RF/RNF derivados dos UC](docs/REQUIREMENTS.md)
+3. [Decisões abertas para refinamento](docs/DECISIONS.md)
+4. [Organização inicial e rastreabilidade](docs/INITIAL_PLAN.md)
+5. [Estado da rodada e próxima ação](docs/PROGRESS.md)
+
+[Projects inicial](https://github.com/users/PHnsilva/projects/14) · [Issues de preparação e refinamento](https://github.com/PHnsilva/SlothGeo/issues)
+
+A base inicial não significa aprovação do ciclo de produto. Issues de implementação afetadas por dúvidas e o planejamento completo das sprints aguardam o refinamento com Pedro.
+
+O projeto foi preparado em 06/11/2026 por solicitação de Pedro. Após o refinamento dos UC/requisitos e das decisões abertas com ele, será necessário criar todas as issues de todas as sprints do ciclo (até 5 + 1, semanais), com tamanhos, dependências, aceite e Kanban. Somente depois dessa preparação completa poderá haver implementação por issue/branch/PR; Pedro revisa e aprova os PRs. A preparação documental original foi a exceção autorizada de bootstrap; a rodada atual segue a issue #1 em branch própria.
 
 ## Leitura para retomada
 

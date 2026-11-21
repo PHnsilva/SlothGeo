@@ -1,5 +1,9 @@
 # Começar aqui em 21/11/2026
 
+## Orientação vigente na retomada
+
+Em 21/11/2026 Pedro orientou preparar primeiro [UC](USE_CASES.md), derivar [requisitos](REQUIREMENTS.md) e depois organizar o [Projects inicial e issues](INITIAL_PLAN.md), deixando explícitas as [decisões abertas](DECISIONS.md). Ele dará orientações adicionais para melhorar essa base. Consultar [PROGRESS.md](PROGRESS.md) antes de agir. Não iniciar implementação do produto nesta etapa. O início foi antecipado por instrução posterior para 04h30 de São Paulo; o roteiro das 06h abaixo registra a preparação original e deve ser aplicado de acordo com essa prioridade mais recente.
+
 ## Antes da data
 
 Somente guardar/consultar a preparação documental. Não iniciar código, instalar bibliotecas, criar o backlog de produto, ativar serviços ou publicar. Este projeto não deve consumir a rotina dos cinco agentes nem do Roblox.
